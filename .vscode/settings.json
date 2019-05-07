@@ -1,2 +1,16 @@
 {
+        "window.zoomLevel": 0,
+        "editor.detectIndentation": true,
+        "editor.fontFamily": "Consolas",
+        "editor.fontSize": 16,
+        "files.autoSave": "onFocusChange",
+        "editor.scrollBeyondLastLine": false,
+        "editor.tabSize": 8,
+        "files.trimTrailingWhitespace": true,
+        "editor.wordSeparators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+        "editor.wordWrap": "on",
+        "editor.formatOnPaste": true,
+        "editor.multiCursorModifier": "ctrlCmd",
+        "editor.snippetSuggestions": "top",
+        "workbench.colorTheme": "Monokai"
 }
