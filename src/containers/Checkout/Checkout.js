@@ -27,14 +27,12 @@ class Checkout extends Component {
                         price : price
                 });
         }
-
         checkoutCancelledHandler = () => {
                 this.props.history.goBack();
         }
         checkoutContinuedHandler = ( ) => {
                 this.props.history.replace('/checkout/contact-data');
         }
-
         render (){
                 return (
                         <div>
